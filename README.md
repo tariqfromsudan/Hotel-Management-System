@@ -23,20 +23,10 @@ The project demonstrates **data structures and algorithms** in a real-world appl
 
 ---
 
-## 📂 Project Structure
-/student-management-system
-│── src/ # Java source code
-│── data/ # Local data files
-│── reports/ # Sample reports
-│── README.md # Documentation
-
-
----
-
 ## 🧑‍💻 How to Run
 1. Clone the repository:  
    ```bash
    git clone https://github.com/tariqfromsudan/student-management-system.git
-Open in IDE (Eclipse / VS Code).
+2. Open in IDE (Eclipse / VS Code).
 
-Compile and run main Java file.
+3. Compile and run main Java file.
