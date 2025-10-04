@@ -34,18 +34,20 @@ It is designed to efficiently manage hotel operations such as booking, check-in/
 ## 📂 Project Structure
 ```
 
-hotel-management-system/
-├── src/
-│   ├── Main.java              # Entry point of the application
-│   ├── Booking.java           # Booking management class
-│   ├── Customer.java          # Customer data class
-│   ├── Room.java              # Room management class
-│   ├── CheckInOut.java        # Handles check-in / check-out operations
-│   └── HotelManagementGUI.java # Java Swing GUI
-├── data/
-│   ├── bookings.txt
-│   └── customers.txt
+Hotel-Management-System/
+├── DataBase
+│         └── Hotel system.sql
+├── Documentation
+│         └── Hotel Management System Report.pdf
+├── HotelSystemCode
+│         ├── .settings
+│         ├── bin
+│         ├── src
+│         ├── .classpath
+│         ├── .project
+│         └── mysql-connector-j-9.2.0.jar
 └── README.md
+
 
 ```
 
